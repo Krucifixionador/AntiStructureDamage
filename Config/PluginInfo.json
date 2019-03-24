@@ -1,0 +1,6 @@
+{
+  "FullName":"AntiStructureDamage",
+  "Description":"Blocks damage to structures by specific dinos",
+  "Version":1.01,
+  "MinApiVersion":3.0
+}
